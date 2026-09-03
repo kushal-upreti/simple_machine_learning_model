@@ -1,5 +1,6 @@
 from ml_model_class import Linear_Regression_Ml
 import pandas as pd
+import matplotlib as plt
 
 student_df = pd.read_csv("/data/Files/linreg_students.csv")
 
